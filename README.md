@@ -92,11 +92,12 @@
 **Instagram:** nero.frost  
 **GitHub:** github.com/RakaAji12
 
-## 📊 GitHub Stats
+## Something Else
 <!-- Banner -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/ybWjYfZL4dMAAAAC/thank-you.gif" width="820" style="border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/RakaAji12/RakaAji12/main/kota%20pixel%20futuristik.jpeg" width="600" />
 </p>
+
 
 <!-- Rank, Level, XP -->
 <p align="center">
@@ -129,34 +130,6 @@
   <img src="https://img.shields.io/badge/DEX-92-%23ffd166?style=for-the-badge" />&nbsp;
   <img src="https://img.shields.io/badge/END-94-%2390f0ff?style=for-the-badge" />&nbsp;
   <img src="https://img.shields.io/badge/LUK-88-%23b580ff?style=for-the-badge" />
-</p>
-
-<!-- Language GIF Icons -->
-<p align="center">
-  <img src="https://media1.tenor.com/m/_7r8RXryt3QAAAAC/python-powered.gif" width="60" title="Python" />  
-  <img src="https://media.tenor.com/igSFncymgkIAAAAj/4.gif" width="60" title="Java" />  
-  <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="60" title="Golang" />  
-  <img src="https://w7.pngwing.com/pngs/929/60/png-transparent-net-framework-c-net-core-software-framework-mono-studio-purple-studio-violet-thumbnail.png" width="60" title="C# .NET" />
-</p>
-
-<!-- Language Pie -->
-<p align="center">
-  <img
-    src="https://quickchart.io/chart?c={
-      type:'doughnut',
-      data:{
-        labels:['Java','Golang','Python','SQL','Others'],
-        datasets:[{
-          data:[40,30,15,10,5],
-          backgroundColor:['#007396','#00ADD8','#3776AB','#336791','#9B59B6']
-        }]
-      },
-      options:{
-        plugins:{legend:{position:'bottom',labels:{color:'#777'}}}
-      }
-    }"
-    width="420"
-  />
 </p>
 ---
 
