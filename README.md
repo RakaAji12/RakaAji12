@@ -19,14 +19,14 @@
 ## 🧙‍♂️ Character Profile
 | Status | Level |
 |--------|--------|
-| 💻 Backend Mastery | **Lv. 92** |
-| ⚔️ Clean Code | **Lv. 87** |
-| 🧠 System Design | **Lv. 79** |
-| ⚡ API Performance | **Lv. 88** |
-| ☕ Java Spring Potency | **Lv. 94** |
-| 🐉 Debugging Instinct | **Lv. 99 (MAX)** |
-| 🧪 Unit Test Discipline | **Lv. 73** |
-| 🗡️ Pattern Knowledge | **Lv. 85** |
+| 💻 Backend Mastery | **Lv. 70** |
+| ⚔️ Clean Code | **Lv. 70** |
+| 🧠 System Design | **Lv. 70** |
+| ⚡ API Performance | **Lv. 70** |
+| ☕ Java Spring Potency | **Lv. 70** |
+| 🐉 Debugging Instinct | **Lv. 70** |
+| 🧪 Unit Test Discipline | **Lv. 70** |
+| 🗡️ Pattern Knowledge | **Lv. 70** |
 
 ---
 
